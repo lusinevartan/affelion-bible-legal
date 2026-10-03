@@ -1,0 +1,14 @@
+{
+  "preparedOn": "2026-10-03",
+  "publisher": "Affelion LLC",
+  "source": "Affelion Bible legal website",
+  "files": {
+    "index.html": "546933adbea25e8cec479f26adb58cf52e1668e1624e02d72d840860962b8b3a",
+    "about.html": "546933adbea25e8cec479f26adb58cf52e1668e1624e02d72d840860962b8b3a",
+    "support.html": "87001f1ac9a0ee3fcc9fdf2d85d9d48b4fa354990be0d40793b223ded1a8d3b4",
+    "terms.html": "ba01e5529177a8d4a744dcd38eaa21cc7021eb1f7faa174ddcccf25811ca8c68",
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "privacy.html": "d7c409bb6b9196d0b7722ef91a8416999c5952c09012f611d086c8127d58d155",
+    "licenses/Hanken-Grotesk.txt": "f45f60ca871850c58d8dc9c973bd6fcad40c137e9d037172b961e8ca68c87ef7"
+  }
+}
